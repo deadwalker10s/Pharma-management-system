@@ -6,3 +6,4 @@ The development will be done in Qt creator 4.11.1 (community) can be downloaded 
 This system deals with the basic management of adding items into a database 
 
 ### Database
+Hosted in raspberry pi using mysql
